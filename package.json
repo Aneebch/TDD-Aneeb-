@@ -1,0 +1,14 @@
+{
+  "name": "katajs",
+  "version": "1.0.0",
+  "description": "\"Katas en Javascript\",",
+  "main": ",",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
